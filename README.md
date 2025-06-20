@@ -4,7 +4,7 @@ This project analyzes and visualizes web events data to gain insights into user 
 
 ## 📊 Dashboard Overview
 
-![Web Events Dashboard](Web_events project.png)
+![Web_Events_Dashboard](Web_events project.png)
 
 ### Key Metrics Displayed:
 - **Total Records**: Total number of web event entries (351)
@@ -14,8 +14,4 @@ This project analyzes and visualizes web events data to gain insights into user 
 - **Top Account**: Most active account based on event count
 - **Event Counts by Channel**: Bar chart and summary table
 
-## 📁 Project Schema
-
-```sql
-CREATE SCHEMA Web_events;
-USE Web_events;
+ END OF FILE

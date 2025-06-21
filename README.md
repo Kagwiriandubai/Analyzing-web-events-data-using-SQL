@@ -4,7 +4,7 @@ This project analyzes and visualizes web events data to gain insights into user 
 
 ## 📊 Dashboard Overview
 
-![Web_Events_Dashboard](Web_events dashboard.png)
+![Web_Events_Dashboard]("Web_events dashboard.png")
 
 ### Key Metrics Displayed:
 - **Total Records**: Total number of web event entries (351)
